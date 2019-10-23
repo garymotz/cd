@@ -49,6 +49,7 @@ The day-to-day operations of the Interest Group is documented in this repository
 | Falko Glöckler | MfN Berlin | [falko.gloeckler@mfn-berlin.de](mailto:falko.gloeckler@mfn-berlin.de)  |
 | Jana Hoffman  | MfN Berlin | [jana.hoffmann@mfn-berlin.de](mailto:jana.hoffmann@mfn-berlin.de) |
 | David Bloom | VertNet | [dbloom@vertnet.org](mailto:dbloom@vertnet.org) |
+| Gary Motz | Indiana University | [garymotz@iu.edu](mailto:garymotz@iu.edu) |
 | Steve Baskauf | Vanderbilt | [steve.baskauf@vanderbilt.edu](mailto:steve.baskauf@vanderbilt.edu) |
 | Mareike Petersen | MfN |[Mareike.Petersen@mfn.berlin](mailto:Mareike.Petersen@mfn.berlin) |
 | James Beach | University of Kansas | [beach53@gmail.com](mailto:beach53@gmail.com) |
